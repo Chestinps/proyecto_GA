@@ -8,6 +8,7 @@ rutas_a_gtfs transforma este geojson resultante en los archivos necesatios para 
 [https://download.geofabrik.de/south-america/chile-latest.osm.pbf](https://download.geofabrik.de/south-america/chile-latest.osm.pbf)
 
 ## Directorio final
+```
 otp_data/
 ├── otp-2.6.0-shaded.jar
 └── graphs/
@@ -17,7 +18,7 @@ otp_data/
         ├── trips.txt
         ├── stops.txt
         └── (otros archivos GTFS)
-
+```
 ## Comandos OTP
 ```
 java -Xmx8G -jar otp-2.6.0-shaded.jar --build graphs/default --save
