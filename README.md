@@ -5,7 +5,7 @@ rutas_a_gtfs transforma este geojson resultante en los archivos necesatios para 
 ## Para descargar el .jar
 [https://repo1.maven.org/maven2/org/opentripplanner/otp/2.6.0/otp-2.6.0-shaded.jar](https://repo1.maven.org/maven2/org/opentripplanner/otp/2.6.0/otp-2.6.0-shaded.jar)
 ## Para descargar el osm.pbf
-[https://download.geofabrik.de/south-america-latest.osm.pbf](https://download.geofabrik.de/south-america/chile-latest.osm.pbf)
+[https://download.geofabrik.de/south-america/chile-latest.osm.pbf](https://download.geofabrik.de/south-america/chile-latest.osm.pbf)
 
 ## Directorio final
 otp_data/
