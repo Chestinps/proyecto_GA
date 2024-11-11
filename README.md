@@ -18,3 +18,11 @@ otp_data/
         ├── trips.txt
         ├── stops.txt
         └── (otros archivos GTFS)
+
+## Comandos OTP
+```
+java -Xmx8G -jar otp-2.6.0-shaded.jar --build graphs/default --save
+```
+```
+java -Xmx8G -jar otp-2.6.0-shaded.jar --build graphs/default --serve
+```
